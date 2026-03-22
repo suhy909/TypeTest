@@ -8,6 +8,7 @@
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "Week5TypeTest"
+		"liveServer.settings.multiRootWorkspaceName": "TypeTest",
+		"liveServer.settings.port": 5501
 	}
 }

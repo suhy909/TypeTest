@@ -1,0 +1,150 @@
+#header {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: "Ubuntu", sans-serif;
+}
+#parent-container1 {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    font-family: "Ubuntu", sans-serif; 
+    padding-left: 100px;
+    font-size: 15px;
+}
+#container3 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 1px;
+    margin-right: 1px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    padding-right: 50px;
+}
+#container4 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 1px;
+    margin-right: 1px;
+    kerning: 1px;
+    letter-spacing: 0.5px;
+    text-align: justify;
+    padding-right: 50px;
+}
+#container5 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 1px;
+    margin-right: 1px;
+    word-spacing: -0.7px;
+    line-height: 1.5;
+    text-align: right;
+    padding-right: 100px;
+}
+#space1 {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#parent-container2 {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    font-family: "Ubuntu", sans-serif; 
+    padding-left: 100px;
+    font-size: 15px;
+}
+#container6 {
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 1px;
+    word-spacing: 5px;
+    letter-spacing: 0px;
+    padding-right: 50px;
+    font-weight: lighter;
+    text-indent: 30px;
+}
+#container7 {
+    display: flex;
+    flex-direction: column;
+    kerning: 5px;
+    letter-spacing: 0.5px;
+    text-align: left;
+    line-height: 30px;
+    padding-right: 50px;
+    font-size: smaller;
+}
+#container8 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 1px;
+    margin-right: 1px;
+    word-spacing: 0.5px;
+    line-height: 1.5;
+    padding-right: 100px;
+    font-style: italic;
+    font-weight: bolder;
+}
+#parent-container3 {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    font-family: "Ubuntu", sans-serif; 
+    padding-left: 100px;
+    font-size: 15px;
+}
+#container9 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 1px;
+    margin-right: 1px;
+    word-spacing: 2%;
+    letter-spacing: 6px;
+    padding-right: 50px;
+    text-indent: 30px;
+}
+#container10 {
+    display: flex;
+    flex-direction: column;
+    kerning: 7px;
+    letter-spacing: 0.3px;
+    text-align: justify;
+    line-height: 10px;
+    padding-right: 50px;
+    font-size: smaller;
+}
+#parent-container4 {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    font-family: "Ubuntu", sans-serif; 
+    padding-left: 100px;
+    font-size: 15px;
+}
+#container11 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 1px;
+    margin-right: 1px;
+    word-spacing: 2%;
+    letter-spacing: 6px;
+    padding-right: 50px;
+    text-indent: 30px;
+}
+#container12 {
+    display: flex;
+    flex-direction: column;
+    kerning: 7px;
+    letter-spacing: 0.3px;
+    text-align: justify;
+    line-height: 10px;
+    padding-right: 50px;
+    font-size: smaller;
+}

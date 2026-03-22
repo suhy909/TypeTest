@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/Ubuntu"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Week5TypeTest"
+	}
+}
